@@ -35,7 +35,7 @@ GET http://localhost:8000/parse?url=https://example.com
   "source": "parsed (live)"
 }
 
-#🏃‍♂️ Быстрый старт
+# 🏃‍♂️ Быстрый старт
 Установка и запуск
 
 # Клонировать репозиторий
@@ -55,7 +55,7 @@ npm install
 npm run dev
 
 
-#🎯 Использование
+# 🎯 Использование
 Запустите бэкенд и фронтенд
 
 Откройте http://localhost:5173
